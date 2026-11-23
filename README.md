@@ -7,7 +7,7 @@
 **IT and Systems · Networking and Security**
 
 CS student at Western University · London, Ontario
-Looking for a **Summer 2027** co-op or internship (open work permit, no sponsorship needed)
+Looking for a **Summer 2027** co-op or internship (co-op work permit, open work permit, no sponsorship needed)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-cliff--li--portfolio.pages.dev-1d1d1f?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://cliff-li-portfolio.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ho_Yin_Li-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ho-yin-li-7a247728b)
