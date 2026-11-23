@@ -25,7 +25,7 @@ Hands-on with Active Directory, Azure, Linux, DNS and Splunk. Trilingual: Englis
 
 ```yaml
 now:      Developer @ Western Cyber Society — building Watchtower, a Raspberry Pi home-network scanner
-studying: B.Sc. Computer Science (Information Systems), Western University — grad April 2028
+studying: B.Sc. Computer Science, Western University — grad April 2028
 before:   Diploma, Computer Systems Technician — Seneca College
 ```
 
